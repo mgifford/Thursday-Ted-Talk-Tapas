@@ -6,6 +6,7 @@
 
 - Wine
 - Juice
+- Wine glasses
 - 8 separate dishes
 - Printed Name Tags
 
@@ -73,3 +74,11 @@ https://enterprisersproject.com/article/2017/10/5-ted-talks-ai-watch
 - Open Alcoholic Drink and Non-alcoholic drinks and Tapas 8
 
 10:00 Networking & closure
+
+### Post-Event Communications
+
+We hope you've enjoyed the event you attended. Please answer the following questions:
+- did you learn something new by attending?
+- were there any ideas you thought you could apply to your life?
+- would you come again?
+- how would you make it better next time?
