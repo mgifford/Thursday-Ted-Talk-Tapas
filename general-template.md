@@ -47,13 +47,15 @@ There may be experts in the room, but the starting point for everyone is what is
 - Quick summary of main point
 
 8:30 Third TEDTalk
+
+7:45 Small Group Discussion 3
 - Switch groups
 - Intoduction round - who inspires you?
 - Questions
 - Non-alcoholic Drink and Tapas 6 and 7
 - Quick summary of main point
 
-9:15 Blending it together
+9:30 Blending it together
 - Full group
 - What do you disagree with in the talks you've heard?
 - What do you find most compelling?
@@ -61,6 +63,5 @@ There may be experts in the room, but the starting point for everyone is what is
 - Do you know where to find additional information?
 - Open Alcoholic Drink and Non-alcoholic drinks and Tapas 8
 
-9:45 Networking
+10:00 Networking & closure
 
-10 Departure
