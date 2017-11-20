@@ -13,7 +13,7 @@
 1 front-facing facilitator
 1 back-room organizer
 
-### Communications
+### Pre-Event Communications
 
 This is a participatory event. You will be expected to engage with others who attend. 
 
@@ -65,3 +65,10 @@ There may be experts in the room, but the starting point for everyone is what is
 
 10:00 Networking & closure
 
+### Post-Event Communications
+
+We hope you've enjoyed the event you attended. Please answer the following questions:
+- did you learn something new by attending?
+- were there any ideas you thought you could apply to your life?
+- would you come again?
+- how would you make it better next time?
