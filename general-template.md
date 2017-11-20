@@ -6,6 +6,7 @@
 
 - Wine
 - Juice
+- Wine glasses
 - 8 separate dishes
 - Printed Name Tags
 
