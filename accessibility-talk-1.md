@@ -26,6 +26,7 @@ There may be experts in the room, but the starting point for everyone is what is
 
 The talk will likely draw on one of these:
   https://www.ted.com/talks?topics%5B%5D=disability
+  https://www.ted.com/playlists/372/designing_for_disability
 
 ## Event
 
