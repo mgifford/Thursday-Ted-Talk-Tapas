@@ -1,4 +1,4 @@
-# AI TTTT Template
+# AI TTTT Talk
 
 ## Pre-meeting
 
